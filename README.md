@@ -1,13 +1,20 @@
-### Hi there 👋
+### Hello, how was your day? 👋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftinwoon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## 💻 Embedded Software Engineer
-
+### 💻 Embedded Software Engineer
+```want to be iron man``` 
+---
 #### 🛠 Technical Stack
-`C` `C++` `Linux` `Window GitHub` 
+`C` `C++` `Linux` `GitHub` 
 
-`MySQL` `Arduino` `OpenCV` `Android` 
+`MySQL` `Arduino` `OpenCV` `Android` `nucleo` `Atmega128` 
+---
+💬 : tinwoon21@naver.com
+
+📞 : Its dangerous to know
+
+:bookmark_tabs:  : [baekjoon](https://www.acmicpc.net/user/2015136077)
 
 ---
 
