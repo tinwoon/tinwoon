@@ -4,6 +4,13 @@
 
 ## 💻 Embedded Software Engineer
 
+#### 🛠 Technical Stack
+`C` `C++` `Linux` `Window GitHub` 
+
+`MySQL` `Arduino` `OpenCV` `Android` 
+
+---
+
 <!--
 **tinwoon/tinwoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
