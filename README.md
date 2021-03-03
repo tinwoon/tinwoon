@@ -6,7 +6,7 @@ Hello ladies and gentlemen! how was your day? 👋
 
 💻 Embedded Software Engineer
 
-```Graduated from Koreatech Bachelor, A cutie who makes everything he wants to make like Iron Man.```
+```Graduated from Koreatech Bachelor, A friend who wants to make everything like Iron Man```
 
 ```Anyone who will be working on a project with me is welcome```
  
