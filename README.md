@@ -21,9 +21,9 @@ Hello ladies and gentlemen! 👋
 `MySQL` `Arduino` `OpenCV` `Android` `nucleo` `Atmega128` 
 
 ---
-💬 : tinwoon21@naver.com
+💬 : `tinwoon21@naver.com`
 
-📞 : 010 - 0000 - 0000
+📞 : `010 - 0000 - 0000`
 
 :bookmark_tabs:  : [baekjoon](https://www.acmicpc.net/user/2015136077)
 
