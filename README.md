@@ -6,12 +6,12 @@ Hello ladies and gentlemen! 👋
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=2015136077)](https://solved.ac/2015136077)
 
-[![tinwoon's github stats](https://github-readme-stats.vercel.app/api?username=tinwoon&show_icons=true&theme=dark)](https://github.com/tinwoon/github-readme-stats)
+<!--[![tinwoon's github stats](https://github-readme-stats.vercel.app/api?username=tinwoon&show_icons=true&theme=dark)](https://github.com/tinwoon/github-readme-stats) -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=2015136077)](https://solved.ac/2015136077/)
 
 #### 💻 Embedded Software Engineer
 
-```Graduated from Koreatech Bachelor, A friend who wants to make everything like Iron Man```
+```Graduated from Koreatech Bachelor, A friend who wants to become an embedded developer. ```
 
 ```Anyone who will be working on a project with me is welcome```
  
