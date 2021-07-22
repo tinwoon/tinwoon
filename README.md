@@ -31,7 +31,10 @@
 
 
 <p align="center">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=2015136077" />
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=2015136077" height = "200px"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tinwoon&theme=solarized_dark" /> 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tinwoon&theme=solarized_dark" /> 
+
 </p>
 
 <br>
