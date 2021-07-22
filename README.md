@@ -32,23 +32,6 @@
 
 <p align="center">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=2015136077" />
- 
-<!DOCTYPE html> 
- <html> 
-  <head> 
-   <title></title> 
-   <meta name="gc:base" content="http://lab.lepture.com/github-cards/"> 
-   <meta name="gc:theme" content="medium"> 
-   <meta name="gc:client-id" content="client id string"> 
-   <meta name="gc:client-secret" content="client secret string"> 
-  </head> 
-  <body> 
-   <div class="github-card" data-github="tinwoon" data-width="400" data-height="" data-theme="default"></div>
-<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script> 
-  </body> 
- </html>
-
-
 </p>
 
 <br>
