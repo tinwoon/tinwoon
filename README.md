@@ -31,9 +31,9 @@
 ```
 ```
 <p align="center">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=2015136077" height = "150px" width = "300px"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tinwoon&theme=solarized_dark"  height="150px" width = "300px" /> 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tinwoon&theme=solarized_dark" height="150px" width = "350px" /> 
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=2015136077" height = "100px" width = "200px"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tinwoon&theme=solarized_dark"  height="100px" width = "200px" /> 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tinwoon&theme=solarized_dark" height="100px" width = "200px" /> 
 </p>
 ```
 ```
