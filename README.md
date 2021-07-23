@@ -19,7 +19,7 @@
  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" /> 
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" /> 
 
-<p align="center"><img src = "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbHVvOq%2FbtqTJl4mBlc%2FSuSTgmO2jiONI7ymPrHqC0%2Fimg.gif" width="60%" height="20%"></img>
+<p align="center"><img src = "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbHVvOq%2FbtqTJl4mBlc%2FSuSTgmO2jiONI7ymPrHqC0%2Fimg.gif" height = "400px" width = "900px"></img>
 </p>
 
 <!--<h3 align="center">🌳 Tech Stack 🌳</h3>-->
@@ -29,12 +29,12 @@
 <!--<h3 align="center">🧷 I've used 🧷</h3>-->
 
 
-
+```
+```
 <p align="center">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=2015136077" height = "200px"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tinwoon&theme=solarized_dark" /> 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tinwoon&theme=solarized_dark" /> 
-
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=2015136077" height = "150px" width = "300px"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tinwoon&theme=solarized_dark"  height="150px" width = "300px" /> 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tinwoon&theme=solarized_dark" height="150px" width = "350px" /> 
 </p>
 
 <br>
